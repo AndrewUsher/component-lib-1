@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Headline /> Renders level 1 correctly 1`] = `
+.c0 {
+  font-family: helvetica,arial,sans-serif;
+  -webkit-letter-spacing: -0.025em;
+  -moz-letter-spacing: -0.025em;
+  -ms-letter-spacing: -0.025em;
+  letter-spacing: -0.025em;
+  color: #202124;
+  line-height: 1;
+  font-size: 3.5rem;
+  font-weight: 600;
+}
+
+<div>
+  <h1
+    class="c0"
+  >
+    Hello
+  </h1>
+</div>
+`;
